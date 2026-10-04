@@ -1,0 +1,21 @@
+customer_id,customer_name,email,phone,age,city,registration_date,customer_status
+1001,Aarav Sharma,aarav.sharma@gmail.com,9876543210,24,Hyderabad,2026-01-10,Active
+1002,Bhavya Rao,bhavya.rao@gmail.com,9876543211,29,Bengaluru,2026-01-12,Active
+1003,Charan Kumar,charan.kumar@gmail.com,9876543212,31,Chennai,2026-01-15,Inactive
+1004,Diya Singh,diya.singh@gmail.com,9876543213,27,Pune,2026-01-18,Active
+1005,Farhan Ali,farhan.ali@gmail.com,9876543214,35,Hyderabad,2026-01-20,Active
+1006,Gayatri Reddy,gayatri.reddy@gmail.com,9876543215,22,Vijayawada,2026-01-22,Active
+1007,Harsha Varma,harsha.varma@gmail.com,9876543216,28,Kurnool,2026-01-25,Active
+1008,Ishita Das,ishita.das@gmail.com,9876543217,26,Kolkata,2026-01-27,Inactive
+1009,Jay Patel,jay.patel@gmail.com,9876543218,33,Mumbai,2026-01-29,Active
+1010,Divya Iyer,divya.iyer@,9876543219,30,Chennai,2026-02-01,Active
+1011,Kiran Rao,kiran.rao@gmail.com,9876543220,41,Hyderabad,2026-02-03,Active
+1012,Lakshmi Devi,lakshmi.devi@gmail.com,,37,Bengaluru,2026-02-05,Active
+1013,Mohan Das,mohan.das@gmail.com,9876543222,-5,Pune,2026-02-07,Active
+1014,Nisha Rani,nisha.rani@gmail.com,9876543223,25,Delhi,2026-02-09,Inactive
+1015,Om Prakash,om.prakash@gmail.com,9876543224,39, Hyderabad ,2026-02-11,Active
+1016,Priya Menon,priya.menon@gmail.com,9876543225,28,Kochi,2026-02-13,Active
+1017,Rahul Verma,rahul.verma@gmail.com,9876543226,45,Mumbai,2026-02-15,Active
+1018,Sneha Kapoor,sneha.kapoor@gmail.com,9876543227,32,Delhi,2026-02-17,Unknown
+1019,Vikram Joshi,vikram.joshi@gmail.com,9876543228,34,Pune,2026-02-19,Active
+1005,, ,98765,,Hyderabad,not-a-date,Unknown
